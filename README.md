@@ -1,6 +1,6 @@
 # TeamProfileGenerator
 
-##User Story
+## User Story
 As a user, I want to create a hub that contains contact info of my team.
 
 ## Description
